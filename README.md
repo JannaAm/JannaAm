@@ -1,4 +1,4 @@
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Testing+student+QA)](https://git.io/typing-svg)
 
@@ -18,6 +18,8 @@
 ## Навыки и технологии :computer:
 
  <img align="right" src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif" height="250" width="250">
+
+<img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
 
 **В этом я училась работать, изучая QA:**
 
@@ -39,6 +41,8 @@ smoke тестирование, интеграционное, поиск деф�
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
+<img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
 
 ## 💞️ Курсовая SkyPro 1-2 💞️
 #### О проекте
@@ -80,6 +84,8 @@ smoke тестирование, интеграционное, поиск деф�
 - Оформление отчёта о тестировании и анализ проведённых работ
 
 <img align="right" src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif" height="250" width="250">
+
+<img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
 
 ## 💞️ Курсовая SkyPro 3 💞️
 #### О проекте
@@ -123,6 +129,8 @@ smoke тестирование, интеграционное, поиск деф�
 
 <img align="right" src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif" height="250" width="250">
 
+<img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
+
 ## 💞️ Диплом SkyPro 💞️
 #### О проекте
 <p>Тестирование веб-приложения для учителей от Skyeng</p>
@@ -163,12 +171,20 @@ smoke тестирование, интеграционное, поиск деф�
 
 <img align="right" src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif" height="250" width="250">
 
+<img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
+
 ## Контактная информация :speaker:
 <a href="https://t.me/Qwinn80">
 <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=light%20blue" alt="Telegram Badge"/>
 </a> — предпочитаемый способ связи
 </div><br>
 
+<img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
