@@ -33,9 +33,10 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" alt="alt Confluence" width="40" height="40"/>&nbsp;
-``Confluence``, ``qase.io``,
- ``SoapUI``, ``Charles``, ``Chrome DevTools``,  ``Miro``, 
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" alt="alt Confluence" width="80" height="40"/>&nbsp;
+<img src="https://github.com/JannaAm/homework/blob/main/Charles.png" alt="Charles" width="90" height="30"/>&nbsp;
+``Confluence``,
+ ``SoapUI``, ``Chrome DevTools``,  ``Miro``, 
 
 ### SkyPro. инженер QA 35.0 поток 21.10.2022 - 
 
