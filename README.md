@@ -32,7 +32,8 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)<br>
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+<img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg" alt="alt Confluence" width="40" height="40"/>&nbsp;
 ``Confluence``, ``qase.io``,
  ``SoapUI``, ``Charles``, ``Chrome DevTools``,  ``Miro``, 
 
