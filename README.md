@@ -35,7 +35,8 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 <img src="https://github.com/JannaAm/homework/blob/main/Confluence.png" alt="alt Confluence" width="70" height="40"/>&nbsp;
 <img src="https://github.com/JannaAm/homework/blob/main/Charles.png" alt="Charles" width="90" height="30"/>&nbsp;
-``Confluence``,
+<img src="https://github.com/JannaAm/homework/blob/main/SoapUI.png" alt="alt SoapUI" width="70" height="40"/>&nbsp;
+
  ``SoapUI``, ``Chrome DevTools``,  ``Miro``, 
 
 ### SkyPro. инженер QA 35.0 поток 21.10.2022 - 
