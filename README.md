@@ -33,11 +33,13 @@
 ![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-<img src="https://github.com/JannaAm/homework/blob/main/Confluence.png" alt="alt Confluence" width="70" height="40"/>&nbsp;
-<img src="https://github.com/JannaAm/homework/blob/main/Charles.png" alt="Charles" width="90" height="30"/>&nbsp;
-<img src="https://github.com/JannaAm/homework/blob/main/SoapUI.png" alt="alt SoapUI" width="70" height="40"/>&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
- ``SoapUI``, ``Chrome DevTools``,  ``Miro``, 
+### Браузеры 
+![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
+![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
+![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
 ### SkyPro. инженер QA 35.0 поток 21.10.2022 - 
 
