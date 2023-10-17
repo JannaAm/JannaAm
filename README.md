@@ -211,7 +211,6 @@ smoke тестирование, интеграционное, поиск деф�
   <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" alt="Gmail">
 </a>
 
-
 <img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
