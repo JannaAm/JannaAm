@@ -39,8 +39,7 @@
 ![curl](https://img.shields.io/badge/curl-073551?logo=curl&logoColor=fff&style=for-the-badge)
 ![Atlassian](https://img.shields.io/badge/Atlassian-0052CC?logo=atlassian&logoColor=fff&style=for-the-badge)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff&style=for-the-badge)</br>
-
-
+''Qase.io'',  ''SoapUI'', ''Chrome-DevTools'', ''Charles'' </br>
 ### Браузеры 
 ![Vivaldi](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
