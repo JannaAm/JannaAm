@@ -201,12 +201,12 @@ smoke тестирование, интеграционное, поиск деф�
 <img src="https://img.shields.io/badge/Telegram-white?logo=telegram&logoColor=light%20blue" alt="Telegram Badge"/>
 </a> — предпочитаемый способ связи
 </div><br>
-<a href="https://vk.com/j.amataewa">
+<br><a href="https://vk.com/j.amataewa">
   <img src="https://img.shields.io/badge/VK-07F?logo=vk&logoColor=fff&style=for-the-badge" alt="VK">
-</a>
-<a href="https://wa.me/89242653701">
+</a></br>
+<br><a href="https://wa.me/89242653701">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="WhatsApp">
-</a>
+</a></br>
 
 <img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
 
