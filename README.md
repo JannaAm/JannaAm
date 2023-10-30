@@ -50,7 +50,7 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-### SkyPro. инженер QA 35.0 поток 21.10.2022 - 
+### SkyPro. инженер QA 35.0 поток 26.10.2022 - 14.09.2023
 
 Выполненные мной задачи в рамках курса:
 - Учебное тестирование веб-сервисов: функциональное, нефункциональное, regression тестирование,
